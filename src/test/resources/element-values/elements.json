@@ -80,28 +80,33 @@
     "locatorValue": "xpath"
   },
   {
-    "keyword": "xxx",
-    "locatorType": "",
+    "keyword": "TooLongText",
+    "locatorType": "//div[text()='Too Long!']",
     "locatorValue": "xpath"
   },
   {
-    "keyword": "xxxx",
-    "locatorType": "xxxx",
-    "locatorValue": "xxxx"
+    "keyword": "EditAccountButton",
+    "locatorType": "(//div[text()='Edit account'])[1]",
+    "locatorValue": "xpath"
   },
   {
-    "keyword": "xxxx",
-    "locatorType": "xxxx",
-    "locatorValue": "xxxx"
+    "keyword": "EditAccountBaslik",
+    "locatorType": "(//div[text()='Edit account'])[2]",
+    "locatorValue": "xpath"
   },
   {
-    "keyword": "xxxx",
-    "locatorType": "xxxx",
-    "locatorValue": "xxxx"
+    "keyword": "AccountNameTextbox",
+    "locatorType": "//input[@class='css-11aywtz r-6taxm2 r-1eh6qqt r-z2wwpe r-rs99b7 r-h3s6tt r-1qhn6m8']",
+    "locatorValue": "xpath"
   },
   {
-    "keyword": "xxxx",
-    "locatorType": "xxxx",
-    "locatorValue": "xxxx"
+    "keyword": "updateButton",
+    "locatorType": "//div[@class='css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13qz1uu']",
+    "locatorValue": "xpath"
+  },
+  {
+    "keyword": "addButton",
+    "locatorType": "//div[@class='css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13qz1uu']",
+    "locatorValue": "xpath"
   }
 ]

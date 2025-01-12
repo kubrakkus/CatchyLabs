@@ -1,26 +1,48 @@
 # Catchylabs uygulamasina login olunur.
+* "Username" elementinin görünürlüğü kontrol edilir.
 * "Username" elementine "kubranur.akkus" değeri girilir.
+* "Password" elementinin görünürlüğü kontrol edilir.
 * "Password" elementine "YndhlyK.*123" değeri girilir.
+* "LoginButton" elementinin görünürlüğü kontrol edilir.
 * "LoginButton" elementine tıklanır.
+* "OpenMoneyTransferButton" elementinin görünürlüğü kontrol edilir.
 * "OpenMoneyTransferButton" elementine tıklanır.
 * "myAccountBaslik" elementinin görünürlüğü kontrol edilir.
 
 # Transfer Money butonuna tiklanir.
+* "TransferMoneyButton" elementinin görünürlüğü kontrol edilir.
 * "TransferMoneyButton" elementine tıklanır.
 * "TransferMoneyBaslik" elementinin görünürlüğü kontrol edilir.
 
-# Para tranfer islemi gerceklestirilir.
+# Receive Account drop down'indan secim yapilir.
+* "ReceiverAccountDropDown" elementinin görünürlüğü kontrol edilir.
 * "ReceiverAccountDropDown" elementinden "Testinium-3" değeri seçilir.
-* "AmountTextbox" elementine "500" değeri girilir.
+
+# <textbox> alanina <text> degeri girilir.
+* <textbox> elementine <text> değeri girilir.
+
+# Send butonuna tiklanir.
+* "SendButton" elementinin görünürlüğü kontrol edilir.
 * "SendButton" elementine tıklanır.
 
 # Add Money butonuna tiklanir.
 * "AddMoneyButton" elementine tıklanır.
 * "AddMoneyBaslik" elementinin görünürlüğü kontrol edilir.
 
-# Para ekleme islemi gerceklestirilir.
-* "CardNumberTextbox" elementine "1234123412341234" değeri girilir.
-* "CardHolderTextbox" elementine "Küb Akk" değeri girilir.
-* "ExpiryDateTextbox" elementine "1026" değeri girilir.
-* "CVVTextbox" elementine "110" değeri girilir.
-* "AmountTextbox" elementine "1100" değeri girilir.
+# Add butonuna tiklanir.
+* "addButton" elementine tıklanır.
+* "addButton" elementinin görünürlüğü kontrol edilir.
+
+# Too Long! hata text'i var mi kontrol edilir.
+* "TooLongText" elementinin görünürlüğü kontrol edilir.
+
+# Edit Account butonuna tiklanir.
+* "EditAccountButton" elementinin görünürlüğü kontrol edilir.
+* "EditAccountButton" elementine tıklanır.
+* "EditAccountBaslik" elementinin görünürlüğü kontrol edilir.
+
+# Update butonuna tiklanir.
+* "updateButton" elementinin görünürlüğü kontrol edilir.
+* "updateButton" elementine tıklanır.
+
+
