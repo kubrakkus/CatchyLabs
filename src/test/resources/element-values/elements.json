@@ -1,0 +1,107 @@
+[
+  {
+    "keyword": "Username",
+    "locatorType": "css",
+    "locatorValue": "[placeholder='Username']"
+  },
+  {
+    "keyword": "Password",
+    "locatorType": "css",
+    "locatorValue": "[placeholder='Password']"
+  },
+  {
+    "keyword": "LoginButton",
+    "locatorType": "xpath",
+    "locatorValue": "//*[text()='Login']"
+  },
+  {
+    "keyword": "OpenMoneyTransferButton",
+    "locatorType": "//div[@class='css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-11c0sde r-13qz1uu']",
+    "locatorValue": "xpath"
+  },
+  {
+    "keyword": "myAccountBaslik",
+    "locatorType": "//div[@class='css-146c3p1 r-1gknse6 r-1b43r93' and text()='My account']",
+    "locatorValue": "xpath"
+  },
+  {
+    "keyword": "TransferMoneyButton",
+    "locatorType": "//div[text()='Transfer money']",
+    "locatorValue": "xpath"
+  },
+  {
+    "keyword": "ReceiverAccountDropDown",
+    "locatorType": "(//select)[2]",
+    "locatorValue": "xpath"
+  },
+  {
+    "keyword": "SendButton",
+    "locatorType": "//div[@class='css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13qz1uu']",
+    "locatorValue": "xpath"
+  },
+  {
+    "keyword": "AmountTextbox",
+    "locatorType": "//input[@class='css-11aywtz r-6taxm2 r-1eh6qqt r-z2wwpe r-rs99b7 r-h3s6tt r-1qhn6m8']",
+    "locatorValue": "xpath"
+  },
+  {
+    "keyword": "TransferMoneyBaslik",
+    "locatorType": "(//div[text()='Transfer money'])[2]",
+    "locatorValue": "xpath"
+  },
+  {
+    "keyword": "AddMoneyButton",
+    "locatorType": "(//div[text()='Add money'])[1]",
+    "locatorValue": "xpath"
+  },
+  {
+    "keyword": "AddMoneyBaslik",
+    "locatorType": "//div[text()='Add money'])[2]",
+    "locatorValue": "xpath"
+  },
+  {
+    "keyword": "CardNumberTextbox",
+    "locatorType": "(//input[@class='css-11aywtz r-6taxm2 r-1mqtkb5 r-z2wwpe r-rs99b7 r-h3s6tt r-1qhn6m8'])[1]",
+    "locatorValue": "xpath"
+  },
+  {
+    "keyword": "CardHolderTextbox",
+    "locatorType": "(//input[@class='css-11aywtz r-6taxm2 r-1mqtkb5 r-z2wwpe r-rs99b7 r-h3s6tt r-1qhn6m8'])[2]",
+    "locatorValue": "xpath"
+  },
+  {
+    "keyword": "ExpiryDateTextbox",
+    "locatorType": "(//input[@class='css-11aywtz r-6taxm2 r-1mqtkb5 r-z2wwpe r-rs99b7 r-h3s6tt r-1qhn6m8'])[3]",
+    "locatorValue": "xpath"
+  },
+  {
+    "keyword": "CVVTextbox",
+    "locatorType": "(//input[@class='css-11aywtz r-6taxm2 r-1mqtkb5 r-z2wwpe r-rs99b7 r-h3s6tt r-1qhn6m8'])[4]",
+    "locatorValue": "xpath"
+  },
+  {
+    "keyword": "xxx",
+    "locatorType": "",
+    "locatorValue": "xpath"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx"
+  }
+]

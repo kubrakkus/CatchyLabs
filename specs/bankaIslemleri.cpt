@@ -1,0 +1,26 @@
+# Catchylabs uygulamasina login olunur.
+* "Username" elementine "kubranur.akkus" değeri girilir.
+* "Password" elementine "YndhlyK.*123" değeri girilir.
+* "LoginButton" elementine tıklanır.
+* "OpenMoneyTransferButton" elementine tıklanır.
+* "myAccountBaslik" elementinin görünürlüğü kontrol edilir.
+
+# Transfer Money butonuna tiklanir.
+* "TransferMoneyButton" elementine tıklanır.
+* "TransferMoneyBaslik" elementinin görünürlüğü kontrol edilir.
+
+# Para tranfer islemi gerceklestirilir.
+* "ReceiverAccountDropDown" elementinden "Testinium-3" değeri seçilir.
+* "AmountTextbox" elementine "500" değeri girilir.
+* "SendButton" elementine tıklanır.
+
+# Add Money butonuna tiklanir.
+* "AddMoneyButton" elementine tıklanır.
+* "AddMoneyBaslik" elementinin görünürlüğü kontrol edilir.
+
+# Para ekleme islemi gerceklestirilir.
+* "CardNumberTextbox" elementine "1234123412341234" değeri girilir.
+* "CardHolderTextbox" elementine "Küb Akk" değeri girilir.
+* "ExpiryDateTextbox" elementine "1026" değeri girilir.
+* "CVVTextbox" elementine "110" değeri girilir.
+* "AmountTextbox" elementine "1100" değeri girilir.
